@@ -17,6 +17,6 @@ Perfect for:
 
 Built with: Excel Pivot Tables | Timeline Controls | Dynamic Charts | Interactive Slicers
 
-# Star this repo for more Excel dashboard projects!
+⭐ Star this repo for more Excel dashboard projects!
 
 #Excel #Dashboard #DataAnalytics #BusinessIntelligence #CoffeeSales #RetailAnalytics #DataVisualization
